@@ -1,0 +1,11 @@
+#tabel{
+    float: top;
+    margin: 50px;
+    padding-right: 150px;
+    padding-bottom: 300px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
